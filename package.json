@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index_kalyan_atom.js.js"
+    "start": "node index_kalyan_atom.js"
   },
   "author": "",
   "license": "ISC",
